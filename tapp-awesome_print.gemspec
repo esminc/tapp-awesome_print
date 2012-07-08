@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = 'ursm@ursm.jp'
   gem.description   = %q{provide awesome_print support for tapp}
   gem.summary       = %q{provide awesome_print support for tapp}
-  gem.homepage      = 'https://github.com/esminc/tapp-awesome_print'
+  gem.homepage      = 'https://github.com/ursm/tapp-awesome_print'
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
