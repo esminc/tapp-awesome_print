@@ -14,6 +14,10 @@ Or install it yourself as:
 
     $ gem install tapp-awesome_print
 
+## Usage
+
+See [esminc/tapp](https://github.com/esminc/tapp).
+
 ## Contributing
 
 1. Fork it
