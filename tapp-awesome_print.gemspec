@@ -15,7 +15,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
   gem.version       = Tapp::AwesomePrint::VERSION
 
-  gem.add_dependency 'tapp', '>= 1.5.0.rc'
+  gem.add_dependency 'tapp', '>= 1.5.0'
   gem.add_dependency 'awesome_print'
 
   gem.add_development_dependency 'turnip'
